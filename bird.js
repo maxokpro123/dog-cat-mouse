@@ -6,3 +6,5 @@ var tuong;
 tuong.name.prototype.method = function(bird) {
     tuong.eat.bird() = false;
 }
+var Cat;
+Cat.prototype.eat.bird();
